@@ -1,0 +1,15 @@
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/bin/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/bin/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.deps.json
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/bin/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.runtimeconfig.json
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/bin/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.dll
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/bin/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.pdb
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.AssemblyInfoInputs.cache
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.AssemblyInfo.cs
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.csproj.CoreCompileInputs.cache
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.sourcelink.json
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.dll
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/refint/mis-221-lab-3-2nd-link-kmvega26.dll
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.pdb
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/mis-221-lab-3-2nd-link-kmvega26.genruntimeconfig.cache
+/Users/kayamaevega/mis-221-lab-3-2nd-link-kmvega26/obj/Debug/net8.0/ref/mis-221-lab-3-2nd-link-kmvega26.dll
